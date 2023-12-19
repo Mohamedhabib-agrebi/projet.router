@@ -1,0 +1,26 @@
+.cards{
+  margin-top: 20px;
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+.green{
+  color: green;
+  text-decoration: none;
+}
+
+.red{
+  color: red;
+  text-decoration: none;
+}
+
+.haboub{
+  margin-top: 20px;
+  display: flex;
+  justify-content: space-around;
+}
+.carC{
+  display: flex;
+  justify-content: space-around;
+}
